@@ -1,7 +1,6 @@
 package net.benjaneer.aoc2020;
 
 import java.io.*;
-import java.util.*;
 import java.util.regex.*;
 
 public class Day18 {

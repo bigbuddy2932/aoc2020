@@ -2,8 +2,6 @@ package net.benjaneer.aoc2020;
 
 import java.io.*;
 import java.util.*;
-import java.util.Map.Entry;
-import java.util.regex.*;
 
 public class Day17 {
 	public static class Coord{
